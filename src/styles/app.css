@@ -1,0 +1,17 @@
+/** Global Styles **/
+
+.app {
+  font-size: 1.5em;
+}
+.app-container {
+  padding-top: 2em;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+}
